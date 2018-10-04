@@ -122,8 +122,8 @@ def checkForKeyPress():
 
 def showStartScreen():
     titleFont = pygame.font.Font('freesansbold.ttf', 100)
-    titleSurf1 = titleFont.render('Wormy!', True, WHITE, DARKGREEN)
-    titleSurf2 = titleFont.render('Wormy!', True, GREEN)
+    titleSurf1 = titleFont.render('Rahul Singh!', True, WHITE, DARKGREEN)
+    titleSurf2 = titleFont.render('Rohit Singh!', True, GREEN)
 
     degrees1 = 0
     degrees2 = 0
